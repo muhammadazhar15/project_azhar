@@ -2,8 +2,15 @@
 Kumpulan beberapa projek yang pernah dibuat
 
 # PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision
-* projek untuk riset lokalisasi robot sepak bola beroda Tim IRIS ITS
+* Projek untuk riset lokalisasi robot sepak bola beroda Tim IRIS ITS
 
 # PROJECT 2: Sistem Pengenalan Suara untuk Perintah pada Robot Sepak Bola Beroda
-* projek riset robot sepak bola beroda Tim IRIS ITS
-* Memberikan perintah positioning pada robot melalui suara
+* Projek riset robot sepak bola beroda Tim IRIS ITS
+* Memberikan perintah positioning pada robot melalui suara menggunakan CNN (Convolutional Neural Network)
+
+# PROJECT 3: Sistem Pendeteksi Penyakit Jantung Sejak Dini Berbasis Kecerdasan Buatan dengan Metode ANN (Artificial Neural Network)
+* Projek penelitian saat melakukan pengabdian di MA Darussalam Jombang
+* Memperkenalkan AI (Artificial Intelligence) pada siswa dan siswi Madrasah terutama dalam bidang Neural Network
+* Penelitian ini juga digunakan para siswa untuk mengikuti kompetisi LKIR LIPI Tahun 2021 (https://kompetisi.brin.go.id/tentang/lkir)
+* Dataset yang digunakan bersumber dari Kaggle (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+* Penelitian ini bertujuan agar Pendeteksi Penyakit Jantung yang dirancang dapat diaplikasikan pada website
