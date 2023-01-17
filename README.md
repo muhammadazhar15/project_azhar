@@ -12,6 +12,7 @@ Kumpulan beberapa projek yang pernah dibuat
 * Projek penelitian saat melakukan pengabdian di MA Darussalam Jombang
 * Memperkenalkan AI (Artificial Intelligence) pada siswa dan siswi Madrasah terutama dalam bidang Neural Network
 * Penelitian ini juga digunakan para siswa untuk mengikuti kompetisi LKIR LIPI Tahun 2021 (https://kompetisi.brin.go.id/tentang/lkir)
-* Dataset yang digunakan bersumber dari Kaggle (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 * Sistem Pendeteksi Penyakit Jantung yang dirancang berfungsi untuk mendeteksi penyakit melalui status kesehatan dan suara jantung
-* Penelitian ini bertujuan agar Pendeteksi Penyakit Jantung yang dirancang dapat diaplikasikan pada website
+* Dataset status kesehatan bersumber dari Kaggle (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+* Dataset rekaman suara jantung bersumber dari (http://www.peterjbentley.com/heartchallenge/)
+* Selain itu, sistem Pendeteksi Penyakit Jantung yang dirancang dapat diaplikasikan pada website
