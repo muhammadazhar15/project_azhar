@@ -2,4 +2,4 @@
 * pertama jalankan program map_database.py untuk generate database map yang akan digunakan pada pf_test.py
 * Setelah generate file data_map.npy selesai, selanjutnya tinggal menjalankan program pf_test.py
 
-*SARAN: agar lebih cepat, bisa download file data_map.npy disini (https://drive.google.com/file/d/1aSnB_YGrFyUbM0Jv823cMUxsoCG_91rt/view?usp=share_link)
+*SARAN: agar lebih cepat, bisa download file data_map.npy disini (https://drive.google.com/file/d/1QeROoAsiCfPX5B_e72cOCn2nM1oz-b5a/view?usp=share_link)
