@@ -8,8 +8,7 @@ Kumpulan beberapa projek yang pernah dibuat
 
   https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4
 
-  <video src="https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4" controls="controls" muted="muted" playsinline="playsinline">
-</video>
+  <video src="https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4" controls="controls" muted="muted" playsinline="playsinline" width="300"></video>
 
 # PROJECT 2: Sistem Pengenalan Suara untuk Perintah pada Robot Sepak Bola Beroda
 * Projek riset robot sepak bola beroda Tim IRIS ITS
