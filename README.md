@@ -8,7 +8,9 @@ https://user-images.githubusercontent.com/120243882/213215666-4653b4f7-5cf8-48bd
 
 https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4
 
-<video src="https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4" width=50% height=50%>
+<video width="320" height="240" autoplay muted>
+  <source src="https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4" type="video/mp4">
+</video>
 
 
 
