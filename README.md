@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/120243882/213215666-4653b4f7-5cf8-48bd
 
 https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4)" width="100" height="100">
+<video src="[https://your-image-url.type](https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4)" width="100" height="100">
 
 # PROJECT 2: Sistem Pengenalan Suara untuk Perintah pada Robot Sepak Bola Beroda
 * Projek riset robot sepak bola beroda Tim IRIS ITS
