@@ -1,1 +1,3 @@
-
+# NOTE: Sebelum menjalankan program "speech_test_realtime.py", download model CNN hasil training "cnn_speech_model.h5" pada link berikut (https://drive.google.com/file/d/13_4eZy7YVbtBovbESwjWnR7NpM342GZ3/view?usp=share_link)
+# Ada 7 perintah berbeda yang dapat dikenali ['Corner', 'Dropball', 'Goalkick', 'Kalibrasi', 'Kickoff', 'Stop', 'Tendang']
+# Setelah run program, tunggu hingga muncul tulisan "* Listening mic." sebelum bersuara
