@@ -4,11 +4,11 @@ Kumpulan beberapa projek yang pernah dibuat
 # PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision
 * Projek untuk riset lokalisasi robot sepak bola beroda Tim IRIS ITS
  
-  https://user-images.githubusercontent.com/120243882/213215666-4653b4f7-5cf8-48bd-91ea-d05469076f68.mp4
+https://user-images.githubusercontent.com/120243882/213215666-4653b4f7-5cf8-48bd-91ea-d05469076f68.mp4
 
-  https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4
+https://user-images.githubusercontent.com/120243882/213215766-411f6838-0309-486a-b52c-df728a80d029.mp4
   
-  https://user-images.githubusercontent.com/120243882/213237570-8e828789-f15e-48b3-8e15-77b1aa8b0c28.mp4
+https://user-images.githubusercontent.com/120243882/213237570-8e828789-f15e-48b3-8e15-77b1aa8b0c28.mp4
 
 # PROJECT 2: Sistem Pengenalan Suara untuk Perintah pada Robot Sepak Bola Beroda
 * Projek riset robot sepak bola beroda Tim IRIS ITS
