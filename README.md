@@ -1,5 +1,5 @@
 # project_azhar
-Kumpulan beberapa projek yang pernah dibuat
+Collection of projects that have been made
 
 # PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision
 * Projek untuk riset lokalisasi robot sepak bola beroda Tim IRIS ITS
