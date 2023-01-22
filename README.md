@@ -27,6 +27,9 @@ Collection of projects that have been made
 > * This video compare sensor fusion data with original robot location in the soccer field
 
 # [PROJECT 2: Voice Recognition System for Commands on Wheeled Soccer Robots](Project2-voice_command)
+
+  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="30%" height="30%">
+
 * This research conducted to give [IRIS ITS](https://iris.its.ac.id/) soccer robots some orders through human voice
 * There are 2 main processes in this voice recognition system, record and recognition
 * This research use CNN (Convolutional Neural Network) to recognize commands from human voice
