@@ -63,7 +63,7 @@ Collection of projects that have been made
 * Introducing AI (Artificial Intelligence) to Madrasah students, especially about Neural Networks
 * This research was conducted with students to prepare for participate in [LKIR LIPI](https://kompetisi.brin.go.id/tentang/lkir) 2021
 * Heart Disease Detection System is designed to detect disease through health status and heart sounds
-* Health status data comes from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) and heart sound data comes from [http://www.peterjbentley.com/heartchallenge/](http://www.peterjbentley.com/heartchallenge/)
+* Health status data comes from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) and heart sound data comes from [here](http://www.peterjbentley.com/heartchallenge/)
 * The Heart Disease Detection System is applied in the website
 * For more complete explanation about this research, you can check [this](Project3-heart_disease_detector/Paper)
 
