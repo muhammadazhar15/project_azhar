@@ -29,8 +29,8 @@ Collection of projects that have been made
 # [PROJECT 2: Voice Recognition System for Commands on Wheeled Soccer Robots](Project2-voice_command)
 
 <div align="center">
-  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="40%" height="40%" style="margin-left: 0.6em;"/>
-  <img src="Project2-voice_command/Image/CNN%20system.JPG" width="40%" height="40%" style="margin-left: 0.6em;"/>  
+  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="40%" height="40%" style="margin: 0px 100px 0px 0px;">
+  <img src="Project2-voice_command/Image/CNN%20system.JPG" width="40%" height="40%" style="margin: 0px 0px 0px 0px;">  
 </div>
 
 * This research conducted to give [IRIS ITS](https://iris.its.ac.id/) soccer robots some orders through human voice
