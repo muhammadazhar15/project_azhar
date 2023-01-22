@@ -30,7 +30,7 @@ Collection of projects that have been made
 
   
   | record     | recognition |
-  | ----------- | ----------- |
+  | :----: | :----: |
   | <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="40%" height="40%">     | <img src="Project2-voice_command/Image/CNN%20system.JPG" width="40%" height="40%">       |
 
 * This research conducted to give [IRIS ITS](https://iris.its.ac.id/) soccer robots some orders through human voice
