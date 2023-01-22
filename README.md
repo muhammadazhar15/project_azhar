@@ -38,7 +38,7 @@ Collection of projects that have been made
 * Data that used in CNN training process comes from 5 different people and 9 different people for test
 * For more complete explanation about this research, you can check [this](Project2-voice_command/Paper)
 
-> **This is visualization from voice recording data and MFCC feature extraction**
+> **Those are some visualization data from voice signal data and MFCC feature extraction results**
 > 
 > <img src="Project2-voice_command/Image/Data_train/azhar.png" width="70%" height="70%">
 
