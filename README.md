@@ -3,7 +3,11 @@ Collection of projects that have been made
 
 # [PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision](Project1-robot_localization)
 
-  <img src="Project1-robot_localization/Image/Robot_design/robot.JPG" width="30%" height="30%"><img src="Project1-robot_localization/Image/Robot_design/Robot%20design.png" width="30%" height="30%"><img src="Project1-robot_localization/Image/Robot_design/Framework%20robot.png" width="40%" height="40%">
+<div align="center">
+  <img src="Project1-robot_localization/Image/Robot_design/robot.JPG" width="30%" height="30%">
+  <img src="Project1-robot_localization/Image/Robot_design/Robot%20design.png" width="30%" height="30%">
+  <img src="Project1-robot_localization/Image/Robot_design/Framework%20robot.png" width="40%" height="40%">
+</div>
   
 * This project is research to design new robot localization system for [IRIS ITS](https://iris.its.ac.id/) robots
 * This localization system combines Odometry and Particle Filter through sensor fusion method
@@ -29,8 +33,8 @@ Collection of projects that have been made
 # [PROJECT 2: Voice Recognition System for Commands on Wheeled Soccer Robots](Project2-voice_command)
 
 <div align="center">
-  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="40%" height="40%" style="margin: 0px 100px 0px 0px;">
-  <img src="Project2-voice_command/Image/CNN%20system.JPG" width="40%" height="40%" style="margin: 0px 0px 0px 0px;">  
+  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="40%" height="40%">
+  <img src="Project2-voice_command/Image/CNN%20system.JPG" width="40%" height="40%">  
 </div>
 
 * This research conducted to give [IRIS ITS](https://iris.its.ac.id/) soccer robots some orders through human voice
