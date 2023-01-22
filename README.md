@@ -2,7 +2,10 @@
 Collection of projects that have been made
 
 # [PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision](https://github.com/muhammadazhar15/project_azhar/tree/master/Project1-robot_localization)
-* Projek untuk riset lokalisasi robot sepak bola beroda Tim IRIS ITS
+* This project is one of the research conducted by [IRIS ITS](https://iris.its.ac.id/) to design new robot localization system
+* This localization system combines Odometry and Particle Filter through sensor fusion method
+* Odometry uses 2 encoder sensors and a gyro sensor to sense robot displacement
+* Particle Filter use omnivision as visual sensor to detect white line in the soccer field through image processing
 
 * <img src="Project1-robot_localization/Image/Test_results/odo1.jpg" width="30%" height="30%">
 
