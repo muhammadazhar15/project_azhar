@@ -5,6 +5,8 @@ Collection of projects that have been made
 * Projek untuk riset lokalisasi robot sepak bola beroda Tim IRIS ITS
 
   <img src="Project1-robot_localization/Image/Test_results/odo1.jpg" width="30%" height="30%">
+  
+https://media.githubusercontent.com/media/120243882/213215666-4653b4f7-5cf8-48bd-91ea-d05469076f68.mp4
  
 https://user-images.githubusercontent.com/120243882/213215666-4653b4f7-5cf8-48bd-91ea-d05469076f68.mp4
 
