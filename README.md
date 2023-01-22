@@ -65,3 +65,8 @@ Collection of projects that have been made
 * Heart Disease Detection System is designed to detect disease through health status and heart sounds
 * Health status data comes from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) and heart sound data comes from [http://www.peterjbentley.com/heartchallenge/](http://www.peterjbentley.com/heartchallenge/)
 * The Heart Disease Detection System is applied in the website
+* For more complete explanation about this research, you can check [this](Project3-heart_disease_detector/Paper)
+
+> **Heart Disease Detection System Demo**
+> 
+> https://user-images.githubusercontent.com/120243882/213934320-be85940c-d860-4ea4-b8dd-51fb7ff6c627.mp4
