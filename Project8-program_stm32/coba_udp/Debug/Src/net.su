@@ -1,0 +1,4 @@
+net.c:46:6:udp_receive_callback	16	static
+net.c:15:6:udp_client_connect	16	static
+net.c:33:6:udp_client_send	8	static
+net.c:55:6:TIM1_Callback	8	static

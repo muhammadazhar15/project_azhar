@@ -1,0 +1,6 @@
+def.c:72:1:lwip_htons	0	static
+def.c:86:1:lwip_htonl	0	static
+def.c:101:1:lwip_strnstr	24	static
+def.c:124:1:lwip_stricmp	12	static
+def.c:159:1:lwip_strnicmp	16	static
+def.c:194:1:lwip_itoa	20	static

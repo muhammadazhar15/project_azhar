@@ -1,0 +1,6 @@
+tcp_in.c:946:1:tcp_oos_insert_segment	24	static
+tcp_in.c:992:1:tcp_receive	32	static
+tcp_in.c:1685:1:tcp_getoptbyte	8	static
+tcp_in.c:1705:1:tcp_parseopt.isra.1.part.2	24	static
+tcp_in.c:104:1:tcp_input	72	static
+tcp_in.c:1808:1:tcp_trigger_input_pcb_close	0	static

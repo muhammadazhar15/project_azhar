@@ -1,0 +1,6 @@
+memp.c:227:1:memp_init_pool	12	static
+memp.c:268:1:memp_init	16	static
+memp.c:356:1:memp_malloc_pool	0	static
+memp.c:382:1:memp_malloc	0	static
+memp.c:449:1:memp_free_pool	0	static
+memp.c:466:1:memp_free	0	static

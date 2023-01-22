@@ -1,0 +1,4 @@
+icmp.c:329:1:icmp_send_response.isra.0	48	static
+icmp.c:76:1:icmp_input	48	static
+icmp.c:297:1:icmp_dest_unreach	0	static
+icmp.c:312:1:icmp_time_exceeded	0	static

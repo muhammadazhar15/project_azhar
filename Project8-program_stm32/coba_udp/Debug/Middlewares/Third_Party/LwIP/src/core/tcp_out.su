@@ -1,0 +1,14 @@
+tcp_out.c:233:1:tcp_pbuf_prealloc	16	static
+tcp_out.c:173:1:tcp_create_segment	32	static
+tcp_out.c:108:1:tcp_output_alloc_header.constprop	24	static
+tcp_out.c:368:1:tcp_write	96	static
+tcp_out.c:749:1:tcp_enqueue_flags	32	static
+tcp_out.c:139:1:tcp_send_fin	24	static
+tcp_out.c:882:1:tcp_send_empty_ack	32	static
+tcp_out.c:957:1:tcp_output	64	static
+tcp_out.c:1289:1:tcp_rst	56	static
+tcp_out.c:1344:1:tcp_rexmit_rto	4	static
+tcp_out.c:1385:1:tcp_rexmit	24	static
+tcp_out.c:1431:1:tcp_rexmit_fast	8	static
+tcp_out.c:1477:1:tcp_keepalive	32	static
+tcp_out.c:1531:1:tcp_zero_window_probe	40	static
