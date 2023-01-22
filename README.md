@@ -53,11 +53,15 @@ Collection of projects that have been made
 > 
 > https://user-images.githubusercontent.com/120243882/213928835-b99e419a-455b-4ef3-9824-324b2552bdfb.mp4
 
-# PROJECT 3: Sistem Pendeteksi Penyakit Jantung Sejak Dini Berbasis Kecerdasan Buatan dengan Metode ANN (Artificial Neural Network)
-* Projek penelitian saat melakukan pengabdian di MA Darussalam Jombang
-* Memperkenalkan AI (Artificial Intelligence) pada siswa dan siswi Madrasah terutama dalam bidang Neural Network
-* Penelitian ini juga digunakan para siswa untuk mengikuti kompetisi LKIR LIPI Tahun 2021 (https://kompetisi.brin.go.id/tentang/lkir)
-* Sistem Pendeteksi Penyakit Jantung yang dirancang berfungsi untuk mendeteksi penyakit melalui status kesehatan dan suara jantung
-* Dataset status kesehatan bersumber dari Kaggle (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
-* Dataset rekaman suara jantung bersumber dari (http://www.peterjbentley.com/heartchallenge/)
-* Selain itu, sistem Pendeteksi Penyakit Jantung yang dirancang dapat diaplikasikan pada website
+# [PROJECT 3: Heart Disease Detection System with ANN (Artificial Neural Network)](Project3-heart_disease_detector)
+
+<div align="center">
+ <img src="Project3-heart_disease_detector/Image/home.JPG" width="40%" height="40%">
+</div>
+
+* Research project while teaching at [MA Darussalam Jombang](https://emispendis.kemenag.go.id/dashboard/?content=madrasah&action=lbg&nss=131235170053)
+* Introducing AI (Artificial Intelligence) to Madrasah students, especially about Neural Networks
+* This research was conducted with students to prepare for participate in [LKIR LIPI](https://kompetisi.brin.go.id/tentang/lkir) 2021
+* Heart Disease Detection System is designed to detect disease through health status and heart sounds
+* Health status data comes from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) and heart sound data comes from [http://www.peterjbentley.com/heartchallenge/](http://www.peterjbentley.com/heartchallenge/)
+* The Heart Disease Detection System is applied in the website
