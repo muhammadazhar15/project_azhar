@@ -3,7 +3,7 @@ Collection of projects that have been made
 
 # [PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision](https://github.com/muhammadazhar15/project_azhar/tree/master/Project1-robot_localization)
   
-  <img src="Project1-robot_localization/Image/Robot_design/Robot%20design.png" width="30%" height="30%"><img src="Project1-robot_localization/Image/Robot_design/robot.JPG" width="30%" height="30%">
+  <img src="Project1-robot_localization/Image/Robot_design/robot.JPG" width="30%" height="30%">     <img src="Project1-robot_localization/Image/Robot_design/Robot%20design.png" width="30%" height="30%">
   
 * This project is one of the research conducted by [IRIS ITS](https://iris.its.ac.id/) to design new robot localization system
 * This localization system combines Odometry and Particle Filter through sensor fusion method
