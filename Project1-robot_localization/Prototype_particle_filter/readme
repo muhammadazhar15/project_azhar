@@ -1,5 +1,5 @@
-* Ini adalah program awal saat riset tentang particle filter
-* pertama jalankan program map_database.py untuk generate database map yang akan digunakan pada pf_test.py
-* Setelah generate file data_map.npy selesai, selanjutnya tinggal menjalankan program pf_test.py
+* These are some initial program for particle filter research
+* First run map_database.py to generate database map that will be used on pf_test.py
+* After data_map.npy has been generated, next run pf_test.py
 
-*SARAN: agar lebih cepat, bisa download file data_map.npy disini (https://drive.google.com/file/d/1QeROoAsiCfPX5B_e72cOCn2nM1oz-b5a/view?usp=share_link)
+* NOTE: you can download data_map.npy here (https://drive.google.com/file/d/1QeROoAsiCfPX5B_e72cOCn2nM1oz-b5a/view?usp=share_link)
