@@ -28,7 +28,7 @@ Collection of projects that have been made
 
 # [PROJECT 2: Voice Recognition System for Commands on Wheeled Soccer Robots](Project2-voice_command)
 
-  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="30%" height="30%"><img src="Project2-voice_command/Image/CNN%20system.JPG" width="30%" height="30%"><img src="Project2-voice_command/Image/Data_train/azhar.png" width="30%" height="30%">
+  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" width="30%" height="30%"><img src="Project2-voice_command/Image/CNN%20system.JPG" width="30%" height="30%">
 
 * This research conducted to give [IRIS ITS](https://iris.its.ac.id/) soccer robots some orders through human voice
 * There are 2 main processes in this voice recognition system, record and recognition
@@ -37,6 +37,10 @@ Collection of projects that have been made
 * In this research MFCC is used as feature extraction method to process data from human voice
 * Data that used in CNN training process comes from 5 different people and 9 different people for test
 * For more complete explanation about this research, you can check [this](Project2-voice_command/Paper)
+
+> **This is visualization from voice recording data and MFCC feature extraction**
+> 
+> <img src="Project2-voice_command/Image/Data_train/azhar.png" width="70%" height="70%">
 
 > **Voice Commands Demo for Soccer Robot**
 > 
