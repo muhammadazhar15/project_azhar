@@ -3,6 +3,7 @@ Collection of projects that have been made
 
 # [PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision](https://github.com/muhammadazhar15/project_azhar/tree/master/Project1-robot_localization)
 * Projek untuk riset lokalisasi robot sepak bola beroda Tim IRIS ITS
+  ![Sensor Fusion](/Project1-robot_localization/Image/Test_results/sf1.jpg)
  
 https://user-images.githubusercontent.com/120243882/213215666-4653b4f7-5cf8-48bd-91ea-d05469076f68.mp4
 
