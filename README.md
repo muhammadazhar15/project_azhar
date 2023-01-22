@@ -28,7 +28,16 @@ Collection of projects that have been made
 
 # [PROJECT 2: Voice Recognition System for Commands on Wheeled Soccer Robots](Project2-voice_command)
 * This research conducted to give [IRIS ITS](https://iris.its.ac.id/) soccer robots some orders through human voice
+* There are 2 main processes in this voice recognition system, record and recognition
 * This research use CNN (Convolutional Neural Network) to recognize commands from human voice
+* There are 7 commands that can be recognized ['Corner', 'Dropball', 'Goalkick', 'Kalibrasi', 'Kickoff', 'Stop', 'Tendang']
+* In this research MFCC is used as feature extraction method to process data from human voice
+* Data that used in CNN training process comes from 5 different people and 9 different people for test
+* For more complete explanation about this research, you can check [this](Project2-voice_command/Paper)
+
+> **Voice Commands Demo for Soccer Robot**
+> 
+> https://user-images.githubusercontent.com/120243882/213928835-b99e419a-455b-4ef3-9824-324b2552bdfb.mp4
 
 # PROJECT 3: Sistem Pendeteksi Penyakit Jantung Sejak Dini Berbasis Kecerdasan Buatan dengan Metode ANN (Artificial Neural Network)
 * Projek penelitian saat melakukan pengabdian di MA Darussalam Jombang
