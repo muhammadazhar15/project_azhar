@@ -1,4 +1,4 @@
-# project_azhar
+# [project_azhar](https://github.com/muhammadazhar15/project_azhar)
 Collection of projects that have been made
 
 # [PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision](https://github.com/muhammadazhar15/project_azhar/tree/master/Project1-robot_localization)
@@ -15,10 +15,6 @@ Collection of projects that have been made
 # PROJECT 2: Sistem Pengenalan Suara untuk Perintah pada Robot Sepak Bola Beroda
 * Projek riset robot sepak bola beroda Tim IRIS ITS
 * Memberikan perintah positioning pada robot melalui suara menggunakan CNN (Convolutional Neural Network)
-
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/x6tVKDEdUxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=x6tVKDEdUxQ)
-
-<iframe src="http://www.youtube.com/embed/x6tVKDEdUxQ" width="560" height="315"></iframe>
 
 # PROJECT 3: Sistem Pendeteksi Penyakit Jantung Sejak Dini Berbasis Kecerdasan Buatan dengan Metode ANN (Artificial Neural Network)
 * Projek penelitian saat melakukan pengabdian di MA Darussalam Jombang
