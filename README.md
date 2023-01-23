@@ -34,7 +34,7 @@ Collection of projects that have been made
 
 <div align="center" margin-right="100px">
  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" height="300px">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="Project2-voice_command/Image/CNN%20system.JPG" height="300px">  
 </div>
 
