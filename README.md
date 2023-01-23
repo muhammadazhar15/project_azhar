@@ -73,3 +73,41 @@ Collection of projects that have been made
 > **Heart Disease Detection System Demo**
 > 
 > https://user-images.githubusercontent.com/120243882/213934320-be85940c-d860-4ea4-b8dd-51fb7ff6c627.mp4
+
+# [PROJECT 4: Line Follower Robot Microcontroller](Project4-robot_line_follower)
+
+<div align="center">
+ <img src="Project4-robot_line_follower/Image/line%20follower.jpeg" height="250px">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="Project4-robot_line_follower/Image/robot%20LF.jpeg" height="250px">
+</div>
+
+* This project is used to teach students in [MA Darussalam Jombang](https://emispendis.kemenag.go.id/dashboard/?content=madrasah&action=lbg&nss=131235170053) introduced embedded systems and robotics
+* This robot uses Arduino nano as microcontroller and use C/C++ programming language ini Arduino IDE
+* There are 3 main board in this robot: Sensor, Core, and Driver
+* This line followe use 14 line sensors (consist a pair of LED and Photodiode) with switching method, only need 7 ADC to read sensors data
+* In Core board, there are buttons, lcd crystal, Arduino nano, and voltage regulator to supply the required voltage for entire robotic system
+* DC motor driver is used to control motors rotation, to control 2 motors need 8 MOSFET and 4 BJT Transistors
+
+> **PCB Design for Line Sensors, Core, and DC Motor driver**
+> 
+> <div align="center">
+>  <img src="Project4-robot_line_follower/Image/sensor.JPG" height="250px">
+>  &nbsp;
+>  <img src="Project4-robot_line_follower/Image/core.JPG" height="250px">
+>  &nbsp;
+>  <img src="Project4-robot_line_follower/Image/driver.JPG" height="250px">
+> </div>
+> 
+> * For this PCB design, you can check schematic and board with EAGLE [here](Project4-robot_line_follower/Design_PCB)
+> * For simple mechanical design of this robot you can check [here](Project4-robot_line_follower/Design_mechanic)
+
+> **Line Follower Robot Microcontroller Demo**
+> 
+> https://user-images.githubusercontent.com/120243882/213953569-85fc9a23-e856-4095-a18f-c3753762ad43.mp4
+> * This robot can be programmed to go through certain tracks such as intersections, incline, black or white line
+
+
+
+
+
