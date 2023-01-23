@@ -167,3 +167,14 @@ Collection of projects that have been made
   
 * This project uses relay as actuator which controlled by ESP32 with Blynk interface
 * IFTTT as third party, works to make connection between Blynk and Google Assistant
+* Arduino IDE program for this project in [here](Project6-smart_home_IoT/Program)
+* If you need more clear explanation and illustration about this system, check [here](Project6-smart_home_IoT/System_design)
+
+> **Smart Home IoT Demo**
+> 
+> https://user-images.githubusercontent.com/120243882/213970831-5661dd2b-66af-45b9-8b20-814e55da1675.mp4
+
+# [PROJECT 7: Teaching Robotics](Project7-teaching_robotics)
+* Koleksi project saat mengajar
+
+
