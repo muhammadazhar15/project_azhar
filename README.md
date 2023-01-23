@@ -9,7 +9,7 @@ Collection of projects that have been made
  <img src="Project1-robot_localization/Image/Robot_design/Framework%20robot.png" height="200px">
 </div>
   
-* This project is research to design new robot localization system for [IRIS ITS](https://iris.its.ac.id/) robots
+* This research aims to create a new robot localization system for [IRIS ITS](https://iris.its.ac.id/) robots in the soccer field
 * This localization system combines Odometry and Particle Filter through sensor fusion method
 * Odometry uses 2 encoder sensors and a gyro sensor to sense robot displacement
 * Particle Filter use omnivision as visual sensor to detect white line in the soccer field through image processing
