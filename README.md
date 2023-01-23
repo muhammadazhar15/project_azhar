@@ -175,6 +175,7 @@ Collection of projects that have been made
 > https://user-images.githubusercontent.com/120243882/213970831-5661dd2b-66af-45b9-8b20-814e55da1675.mp4
 
 # [PROJECT 7: Teaching Robotics](Project7-teaching_robotics)
+* These are some electronics projects that i made while teaching at MA Darussalam Jombang
 
 <div align="center">
  <img src="Project7-teaching_robotics/Image/flip-flop_sch.JPG" height="250px">
@@ -192,10 +193,16 @@ Collection of projects that have been made
 
 &nbsp;
 
-* These are some electronics projects that i made while teaching at MA Darussalam Jombang
-* Such as Flip-flop, Line sensor, Line Follower Analog, Radio Receiver, Arduino Learning Board, and Simple Motor Driver
+* Flip-flop, Line sensor, Line Follower Analog, Radio Receiver, Arduino Learning Board, and Simple Motor Driver
 * The purpose of these projects are to introduce students about electronics and simple robotics
 * These are handbooks that I use to teach, check [here](Project7-teaching_robotics/Handbook)
 * These are some collections of PCB designs that I have created to teach, check [here](Project7-teaching_robotics/Design_PCB)
 
+# [PROJECT 8: STM32 Projects Collection](Project6-smart_home_IoT)
+* These are some STM32 programming with STMCubeMX that I had made while joining [IRIS ITS](https://iris.its.ac.id/)
 
+<div align="center">
+ <img src="Project8-program_stm32/Image/stm32cube.JPG" height="70%" width="70%">
+</div>
+
+* This is IoT simple project to control some devices with human voice through Google Assistant
