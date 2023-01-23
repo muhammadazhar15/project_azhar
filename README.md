@@ -106,6 +106,7 @@ Collection of projects that have been made
 > 
 > https://user-images.githubusercontent.com/120243882/213953569-85fc9a23-e856-4095-a18f-c3753762ad43.mp4
 > * This robot can be programmed to go through certain tracks such as intersections, incline, black or white line
+> * This robot also participate in [MRC 2020](https://madrasah.kemenag.go.id/mrc2020/) 
 
 # [PROJECT 5: Transporter Robot IoT](Project5-robot_transporter_IoT)
 
@@ -115,7 +116,12 @@ Collection of projects that have been made
  <img src="Project5-robot_transporter_IoT/Image/robot%20bottom.jpeg" height="250px">
 </div>
 
-* tes 1234567890-
+* This Transport Robot uses ESP32 as microcontroller and can be programmed with Arduino IDE
+* Components Transporter Robot IoT
+  | ESP32     | 2 Line sensors | Barcode ensor    |
+  | Color sensor     | OLED | Voltage regulator     |
+  | Motor driver     | Gearbox motor | Gripper     |
+  | --- | ----------- | ----------- |
 
 
 
