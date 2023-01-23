@@ -82,7 +82,7 @@ Collection of projects that have been made
  <img src="Project4-robot_line_follower/Image/robot%20LF.jpeg" height="250px">
 </div>
 
-* This project is used to teach students in [MA Darussalam Jombang](https://emispendis.kemenag.go.id/dashboard/?content=madrasah&action=lbg&nss=131235170053) introduced embedded systems and robotics
+* This project is used to introduce students in [MA Darussalam Jombang](https://emispendis.kemenag.go.id/dashboard/?content=madrasah&action=lbg&nss=131235170053) about embedded systems and robotics
 * This robot uses Arduino nano as microcontroller and use C/C++ programming language in Arduino IDE
 * There are 3 main board in this robot: Sensor, Core, and Driver
 * This line followe use 14 line sensors (consist a pair of LED and Photodiode) with switching method, only need 7 ADC to read sensors data
@@ -116,12 +116,35 @@ Collection of projects that have been made
  <img src="Project5-robot_transporter_IoT/Image/robot%20bottom.jpeg" height="250px">
 </div>
 
-* This Transport Robot uses ESP32 as microcontroller and can be programmed with Arduino IDE
-* Components Transporter Robot IoT
-  | ESP32     | 2 Line sensors | Barcode ensor    |
-  | Color sensor     | OLED | Voltage regulator     |
-  | Motor driver     | Gearbox motor | Gripper     |
-  | --- | ----------- | ----------- |
+* This project is used to teach students before participate in [MRC 2021](https://madrasah.kemenag.go.id/mrc2021/) competition
+* This Transporter Robot uses ESP32 as microcontroller and can be programmed with Arduino IDE
+* Components of Transporter Robot IoT
 
+  <table>
+    <tr>
+     <td>ESP32</td>
+     <td>TCS3200</td>
+     <td>GM66</td>
+     <td>OLED 128x64</td>
+     <td>Gripper Servo</td>
+    </tr>
+    <tr>
+     <td>Line Sensor</td>
+     <td>Voltage Regulator</td>
+     <td>Driver Motor</td>
+     <td>Gearbox Motor</td>
+     <td>Lipo battery 12v</td>
+    </tr>
+  </table>
+
+* There are 3 sensors used by this robot: 2 Line sensor, Barcode Sensor GM66, and Color Sensor TCS3200
+* Robot mission is scaning object barcode and then send object to drop location with same barcode
+* This robot also send reports about activities that have been carried out such as take the object, drop the object, and object barcode
+* The report send through MQTT protocol to this [MQTT Broker Websockets](http://www.hivemq.com/demos/websocket-client/)
+* You can check some simple program used to access each sensor [here](Project5-robot_transporter_IoT/Program/trial_program) and program for the entire robot system [here](Project5-robot_transporter_IoT/Program/robot)
+
+> **Transporter Robot IoT Demo**
+> 
+> https://user-images.githubusercontent.com/120243882/213965095-ef7a9108-83d1-48a8-8197-9af46c50bce0.mp4
 
 
