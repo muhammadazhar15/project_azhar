@@ -147,4 +147,23 @@ Collection of projects that have been made
 > 
 > https://user-images.githubusercontent.com/120243882/213965095-ef7a9108-83d1-48a8-8197-9af46c50bce0.mp4
 
+# [PROJECT 6: Smart Home IoT](Project6-smart_home_IoT)
 
+<div align="center">
+ <img src="Project6-smart_home_IoT/Image/smarthome_system.JPG" height="70%" width="70%">
+</div>
+
+* This is IoT simple project to control some devices with human voice through Google Assistant
+* IoT systems consist of:
+
+  <table>
+    <tr>
+     <th><a href="http://esp32.net/">Blynk</a></th>
+     <th><a href="https://blynk.io/">Blynk</a></th>
+     <th><a href="https://ifttt.com/">IFTTT</a></th>
+     <th><a href="https://assistant.google.com/">Google Assistant</a></th>
+    </tr>
+  </table>
+  
+* This project uses relay as actuator which controlled by ESP32 with Blynk interface
+* IFTTT as third party, works to make connection between Blynk and Google Assistant
