@@ -190,10 +190,12 @@ Collection of projects that have been made
  <img src="Project7-teaching_robotics/Image/radio_brd.JPG" height="250px">
 </div>
 
+&nbsp;
+
 * These are some electronics projects that i made while teaching at MA Darussalam Jombang
 * Such as Flip-flop, Line sensor, Line Follower Analog, Radio Receiver, Arduino Learning Board, and Simple Motor Driver
 * The purpose of these projects are to introduce students about electronics and simple robotics
-* These are handbook that I use to teach, check [here](Project7-teaching_robotics/Handbook)
+* These are handbooks that I use to teach, check [here](Project7-teaching_robotics/Handbook)
 * These are some collections of PCB designs that I have created to teach, check [here](Project7-teaching_robotics/Design_PCB)
 
 
