@@ -83,7 +83,7 @@ Collection of projects that have been made
 </div>
 
 * This project is used to teach students in [MA Darussalam Jombang](https://emispendis.kemenag.go.id/dashboard/?content=madrasah&action=lbg&nss=131235170053) introduced embedded systems and robotics
-* This robot uses Arduino nano as microcontroller and use C/C++ programming language ini Arduino IDE
+* This robot uses Arduino nano as microcontroller and use C/C++ programming language in Arduino IDE
 * There are 3 main board in this robot: Sensor, Core, and Driver
 * This line followe use 14 line sensors (consist a pair of LED and Photodiode) with switching method, only need 7 ADC to read sensors data
 * In Core board, there are buttons, lcd crystal, Arduino nano, and voltage regulator to supply the required voltage for entire robotic system
@@ -107,7 +107,15 @@ Collection of projects that have been made
 > https://user-images.githubusercontent.com/120243882/213953569-85fc9a23-e856-4095-a18f-c3753762ad43.mp4
 > * This robot can be programmed to go through certain tracks such as intersections, incline, black or white line
 
+# [PROJECT 5: Transporter Robot IoT](Project5-robot_transporter_IoT)
 
+<div align="center">
+ <img src="Project5-robot_transporter_IoT/Image/robot.jpeg" height="250px">
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="Project5-robot_transporter_IoT/Image/robot%20bot.jpeg" height="250px">
+</div>
+
+* tes 1234567890-
 
 
 
