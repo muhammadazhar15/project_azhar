@@ -77,9 +77,9 @@ Collection of projects that have been made
 # [PROJECT 4: Line Follower Robot Microcontroller](Project4-robot_line_follower)
 
 <div align="center">
- <img src="Project4-robot_line_follower/Image/line%20follower.jpeg" height="250px">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="Project4-robot_line_follower/Image/robot%20LF.jpeg" height="250px">
+ <img src="Project4-robot_line_follower/Image/line%20follower.jpeg" height="225px">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="Project4-robot_line_follower/Image/robot%20LF.jpeg" height="225px">
 </div>
 
 * This project is used to introduce students in [MA Darussalam Jombang](https://emispendis.kemenag.go.id/dashboard/?content=madrasah&action=lbg&nss=131235170053) about embedded systems and robotics
@@ -92,11 +92,11 @@ Collection of projects that have been made
 > **PCB Design for Line Sensors, Core, and DC Motor driver**
 > 
 > <div align="center">
->  <img src="Project4-robot_line_follower/Image/sensor.JPG" height="250px">
+>  <img src="Project4-robot_line_follower/Image/sensor.JPG" height="200px">
 >  &nbsp;
->  <img src="Project4-robot_line_follower/Image/core.JPG" height="250px">
+>  <img src="Project4-robot_line_follower/Image/core.JPG" height="200px">
 >  &nbsp;
->  <img src="Project4-robot_line_follower/Image/driver.JPG" height="250px">
+>  <img src="Project4-robot_line_follower/Image/driver.JPG" height="200px">
 > </div>
 > 
 > * For this PCB design, you can check schematic and board with EAGLE [here](Project4-robot_line_follower/Design_PCB)
@@ -111,9 +111,9 @@ Collection of projects that have been made
 # [PROJECT 5: Transporter Robot IoT](Project5-robot_transporter_IoT)
 
 <div align="center">
- <img src="Project5-robot_transporter_IoT/Image/robot.jpeg" height="250px">
+ <img src="Project5-robot_transporter_IoT/Image/robot.jpeg" height="225px">
  &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="Project5-robot_transporter_IoT/Image/robot%20bottom.jpeg" height="250px">
+ <img src="Project5-robot_transporter_IoT/Image/robot%20bottom.jpeg" height="225px">
 </div>
 
 * This project is used to teach students before participate in [MRC 2021](https://madrasah.kemenag.go.id/mrc2021/) competition
