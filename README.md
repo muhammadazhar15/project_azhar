@@ -32,7 +32,7 @@ Collection of projects that have been made
 
 # [PROJECT 2: Voice Recognition System for Commands on Wheeled Soccer Robots](Project2-voice_command)
 
-<div style="align:center; margin-right: 100px;">
+<div align="center" margin-right="100px">
  <img src="Project2-voice_command/Image/voice%20activity%20detector.JPG" height="300px">
  <img src="Project2-voice_command/Image/CNN%20system.JPG" height="300px">  
 </div>
