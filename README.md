@@ -199,10 +199,14 @@ Collection of projects that have been made
 * These are some collections of PCB designs that I have created to teach, check [here](Project7-teaching_robotics/Design_PCB)
 
 # [PROJECT 8: STM32 Projects Collection](Project6-smart_home_IoT)
-* These are some STM32 programming with STMCubeMX that I had made while joining [IRIS ITS](https://iris.its.ac.id/)
+* These are some STM32 programming with STM32CubeMX that I had made while joining [IRIS ITS](https://iris.its.ac.id/)
 
 <div align="center">
- <img src="Project8-program_stm32/Image/stm32cube.JPG" height="70%" width="70%">
+ <img src="Project8-program_stm32/Image/stm32cube.JPG" height="40%" width="40%">
 </div>
 
-* This is IoT simple project to control some devices with human voice through Google Assistant
+* STM32 is a family of 32-bit microcontrollers based on the ARM Cortex-M core and developed by ST Microelectronics
+* STM32CubeMX uses HAL library to generate project in C programming language
+* This project consists of STM32 basic programming to complex systems
+* Example: GPIO, ADC, Timer, PWM, Serial, Odometry, and Robot Control
+* Check my STM32 programming project [here](Project8-program_stm32/Program)
