@@ -158,7 +158,7 @@ Collection of projects that have been made
 
   <table>
     <tr>
-     <th><a href="http://esp32.net/">Blynk</a></th>
+     <th><a href="http://esp32.net/">ESP32</a></th>
      <th><a href="https://blynk.io/">Blynk</a></th>
      <th><a href="https://ifttt.com/">IFTTT</a></th>
      <th><a href="https://assistant.google.com/">Google Assistant</a></th>
@@ -175,6 +175,25 @@ Collection of projects that have been made
 > https://user-images.githubusercontent.com/120243882/213970831-5661dd2b-66af-45b9-8b20-814e55da1675.mp4
 
 # [PROJECT 7: Teaching Robotics](Project7-teaching_robotics)
-* Koleksi project saat mengajar
+
+<div align="center">
+ <img src="Project7-teaching_robotics/Image/flip-flop_sch.JPG" height="250px">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="Project7-teaching_robotics/Image/flip-flop_brd.JPG" height="250px">
+</div>
+
+&nbsp;
+
+<div align="center">
+ <img src="Project7-teaching_robotics/Image/radio_sch.JPG" height="250px">
+ &nbsp;&nbsp;
+ <img src="Project7-teaching_robotics/Image/radio_brd.JPG" height="250px">
+</div>
+
+* These are some electronics projects that i made while teaching at MA Darussalam Jombang
+* Such as Flip-flop, Line sensor, Line Follower Analog, Radio Receiver, Arduino Learning Board, and Simple Motor Driver
+* The purpose of these projects are to introduce students about electronics and simple robotics
+* These are handbook that I use to teach, check [here](Project7-teaching_robotics/Handbook)
+* These are some collections of PCB designs that I have created to teach, check [here](Project7-teaching_robotics/Design_PCB)
 
 
