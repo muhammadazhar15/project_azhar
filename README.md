@@ -57,7 +57,8 @@ Collection of projects that have been made
 # [PROJECT 3: Heart Disease Detection System with ANN (Artificial Neural Network)](Project3-heart_disease_detector)
 
 <div align="center">
- <img src="Project3-heart_disease_detector/Image/home.JPG" width="40%" height="40%">
+ <img src="Project3-heart_disease_detector/Image/home.JPG" height="300px">
+ <img src="Project3-heart_disease_detector/Image/train%20and%20test.JPG" height="300px">
 </div>
 
 * Research project while teaching at [MA Darussalam Jombang](https://emispendis.kemenag.go.id/dashboard/?content=madrasah&action=lbg&nss=131235170053)
