@@ -4,9 +4,9 @@ Collection of projects that have been made
 # [PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision](Project1-robot_localization)
 
 <div align="center">
- <img src="Project1-robot_localization/Image/Robot_design/robot.JPG" width="25%" height="25%">
- <img src="Project1-robot_localization/Image/Robot_design/Robot%20design.png" width="25%" height="25%">
- <img src="Project1-robot_localization/Image/Robot_design/Framework%20robot.png" width="30%" height="30%">
+ <img src="Project1-robot_localization/Image/Robot_design/robot.JPG" height="200px">
+ <img src="Project1-robot_localization/Image/Robot_design/Robot%20design.png" height="200px">
+ <img src="Project1-robot_localization/Image/Robot_design/Framework%20robot.png" height="200px">
 </div>
   
 * This project is research to design new robot localization system for [IRIS ITS](https://iris.its.ac.id/) robots
