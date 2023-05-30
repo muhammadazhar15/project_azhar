@@ -1,5 +1,5 @@
 # [project_azhar](https://github.com/muhammadazhar15/project_azhar)
-Collection of projects that have been made
+Collection of projects that have been made!
 
 # [PROJECT 1: Soccer Robot Localization Based on Sensor Fusion from Odometry and Omnivision](Project1-robot_localization)
 
